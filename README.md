@@ -1,6 +1,6 @@
 # Hello World Application
 
-This is a simple "Hello World" application created using HTML, CSS, and JavaScript. 
+This is a simple "test site" application created using HTML, CSS, and JavaScript. 
 
 ## Project Structure
 
@@ -20,8 +20,6 @@ To run this application, simply open the `index.html` file in your web browser.
 
 ## Usage
 
-The application displays a "Hello, World!" message on the webpage. You can modify the message in the `script.js` file.
+The application displays a "Testing this application
+Hello, beautiful people!!" message on the webpage. we can modify the message in the `script.js` file.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
